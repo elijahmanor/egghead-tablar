@@ -1,0 +1,8 @@
+{
+  "name": "Tablar",
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+    "newtab": "./index.html"
+  },
+  "version": "1.0"
+}
